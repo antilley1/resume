@@ -181,8 +181,7 @@ projects:
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: MLB Season Win Record Machine Learning
-        link: https://colab.research.google.com/drive/1j4TyKwfn5EH4Yn3TuT1wdByZmn9vyU3C?usp=shari
-ng
+        link: https://colab.research.google.com/drive/1j4TyKwfn5EH4Yn3TuT1wdByZmn9vyU3C?usp=sharing
         tagline: "A notebook exploring machine learning to predict MLB season win records"
 
       # - title: DevStudio
