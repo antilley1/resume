@@ -68,25 +68,11 @@ education:
       - degree: BS in Computer Science
         university: Western Governer's University
         time: 2023
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
       - degree: BS in Mechanical Engineering
         university: University of Texas at Tyler
         time: 2017
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        details: 
 
 experiences:
     title: Experiences
@@ -100,8 +86,9 @@ experiences:
           refine, test and debug programs to meet business needs.
             - Tested, maintained, and recommended software improvements to ensure strong functionality and optimization
             - Designed and maintained software applications using ASP.NET and Entity Framework
-            - Developed new front-end and back-end features for existing software applications
-            - Utilized Azure as part of a CI/CD pipeline
+            - Developed new front-end and back-end features for existing software applications using Blazor and Microsoft SQL Server
+            - Maintained application data integrity by leveraging Azure Functions and the associated APIs
+            - Utilized git and Azure Devops as part of a CI/CD pipeline
 
       - role: Project Manager
         time: 2017 - 2021
@@ -130,19 +117,9 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Details about cert. 
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+
         - name: Project+
           start: 2022
           end:
@@ -164,6 +141,8 @@ certifications:
               to successful outcomes. Holding the Project+ certification, I bring valuable 
               project management skills to any organization, ensuring project goals are 
               met and business objectives are achieved.
+
+
         - name: Professional Engineer
           start: 2020
           end:
@@ -187,13 +166,8 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Quick glance at a few of my projects :
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: MLB Season Win Record Machine Learning
         link: https://colab.research.google.com/drive/1j4TyKwfn5EH4Yn3TuT1wdByZmn9vyU3C?usp=sharing
@@ -257,7 +231,7 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Python
