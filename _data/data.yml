@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -124,11 +124,11 @@ certifications:
       list:
         - name: ITIL Foundation
           start: 2023
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          end:
+          organization: Axelos
+          credentialid:
+          credentialurl: 
+          credentialname: 
           details: |
             Details about cert. Lorem ipsum dolor sit amet, consectetur
             adipiscing elit.
@@ -146,19 +146,24 @@ certifications:
         - name: Project+
           start: 2022
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: CompTIA
+          credentialid:
+          credentialurl:
+          credentialname:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+              The Project+ certification validates my proficiency in project management, 
+              emphasizing my ability to initiate, plan, execute, monitor, and close projects 
+              effectively. This certification demonstrates my understanding of key project 
+              management concepts, such as project scope, scheduling, cost management, 
+              and risk assessment. It reflects my commitment to ensuring projects are 
+              completed on time, within budget, and to the satisfaction of stakeholders. 
+              With Project+, I am well-prepared to contribute to the success of projects 
+              in diverse industries, facilitating collaboration, clear communication, 
+              and efficient resource allocation. This certification underscores my 
+              dedication to professional growth and my capability to drive projects 
+              to successful outcomes. Holding the Project+ certification, I bring valuable 
+              project management skills to any organization, ensuring project goals are 
+              met and business objectives are achieved.
         - name: Professional Engineer
           start: 2020
           end:
@@ -167,7 +172,17 @@ certifications:
           credentialurl:
           credentialname:
           details: |
-              Info about PE License
+              My Professional Engineering License (P.E.) signifies my 
+              competence and legal authority to practice engineering. 
+              Acquired after rigorous education, professional experience, 
+              and successful completion of licensing exams, it 
+              demonstrates my commitment to excellence and public safety. 
+              With this credential, I have the expertise to design, manage, 
+              and oversee complex engineering projects, ensuring they meet
+              industry standards and regulatory requirements. My P.E. 
+              License showcases my dedication to ethical engineering 
+              practices, problem-solving abilities, and my role in 
+              fostering innovation and safety within the engineering field. 
 
 projects:
     title: Projects
