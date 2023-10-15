@@ -59,7 +59,7 @@ career-profile:
     summary: |
       Dedicated and performance-driven professional with passion for identifying, prioritizing, and executing tasks in the software development life cycle.
       Proficiency in developing systems to maintain, analyze and improve performance, integrity, and reliability of existing applications.
-      Aptitude for building testable, accessible, enjoyable applications for web, and writing clean high-quality codes. Talent for engaging closely with clients and cross-functional departments to communicate project statuses and proposals. 
+      Aptitude for building testable, accessible, enjoyable applications for web, and writing clean, high-quality code. Talent for engaging closely with clients and cross-functional departments to communicate project statuses and proposals. 
       Stellar track record of identifying and resolving complex problems by leveraging strong troubleshooting skills and providing robust solutions in high-pressure and deadline-driven environments. Skilled in cultivating professional skills of high-performing teams through interactive training and inspiring leadership. 
       Refined and conversant communicator; equipped with exceptional, interpersonal, relationship-building, decision-making, analytical thinking, problem-solving, organizational, and project management skills.
 education:
@@ -73,6 +73,10 @@ education:
         university: University of Texas at Tyler
         time: 2017
         details: 
+      - degree: AS in Mathematics
+        university: Tyler Junior College
+        time: 2014
+        details:
 
 experiences:
     title: Experiences
@@ -94,8 +98,8 @@ experiences:
         time: 2017 - 2021
         company: EMA Engineering & Consulting, Tyler, TX
         details: |
-          Delivered constructive input in investigating all facets of building constraints and developed insightful solutions by cross-
-          collaborating with highly qualified team. Articulated technical limitations and specifications with team members and clients to
+          Delivered constructive input in investigating all facets of building constraints and developed insightful solutions by cross-collaborating 
+          with highly qualified teams. Articulated technical limitations and specifications with team members and clients to
           meet the defined organizational goals. Built and fostered long-lasting and trustworthy relationships with prospective clients and
           educated them on technical details. Played vital role in testing functionality, controls, and programming of multiple mechanical
           equipment software to optimize results.
