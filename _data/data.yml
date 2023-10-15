@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Martin Antilley
-    tagline: Software Developer
+    tagline: Software Engineer
     avatar: headshot.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /assets/resume.pdf
+    pdf: resume/assets/resume.pdf
 
     # languages:
     #   title: Languages
