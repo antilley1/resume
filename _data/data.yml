@@ -92,7 +92,6 @@ experiences:
           - Reviewed approximately 50% of company pull requests, providing actionable feedback to improve code quality and maintain project standards
           - Optimized select database interactions by fine-tuning queries, reducing query time by up to 50% for targeted operations.
           - Refactored specific legacy code using new C# features, reducing file size by over 60% in some instances while preserving functionality and readability. 
-          
       - role: Software Developer
         time: Jul 2023 - Sep 2023
         company: Southwest Transplant Alliance, Dallas, TX
@@ -101,7 +100,6 @@ experiences:
           - Designed, developed, and maintained internal software applications using ASP.NET, Entity Framework, Blazor, and Azure DevOps in a CI/CD pipeline.
           - Built and deployed a real-time dashboard for tracking potential organ donors, enabling immediate adoption post-deployment and supporting life-saving decisions.
           - Handled sensitive personal information in compliance with HIPAA, ensuring data security and adherence to regulatory standards. 
-
       - role: Project Manager
         time: May 2017 - Sep 2021
         company: EMA Engineering & Consulting, Tyler, TX
@@ -124,8 +122,6 @@ certifications:
           credentialname: 
           details: |
             Details about cert. 
-
-
         - name: Project+
           start: 2022
           end:
@@ -147,8 +143,6 @@ certifications:
               to successful outcomes. Holding the Project+ certification, I bring valuable 
               project management skills to any organization, ensuring project goals are 
               met and business objectives are achieved.
-
-
         - name: Professional Engineer (Inactive)
           start: 2020
           end:
@@ -174,7 +168,6 @@ projects:
     intro: >
       Quick glance at a few of my projects :
     assignments:
-
       - title: MLB Season Win Record Machine Learning
         link: https://colab.research.google.com/drive/1j4TyKwfn5EH4Yn3TuT1wdByZmn9vyU3C?usp=sharing
         tagline: "A notebook exploring machine learning to predict MLB season win records"
@@ -241,18 +234,11 @@ skills:
 
     toolset:
       - name: Python
-
       - name: C# / .NET / Entity Framework
-
       - name: HTML / CSS / Javascript
-
       - name: Git / Github / Version Control
-
       - name: Software Development Lifecycle / Code Review
-
       - name: Unit Testing / Test Driven Development
-
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
